@@ -1,1 +1,4 @@
-console.log("WELCOME");
+console.log("PLAYLIST");
+for(var i=0;i<5;i++){
+    console.log("HARISH");
+}
